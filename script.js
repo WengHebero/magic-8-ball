@@ -9,7 +9,7 @@ const answers = [
     "Outlook good",
     "Yes",
     "Signs point to yes",
-    "Reply hazy, try again",
+    "Can't think right now, try again",
     "Ask again later",
     "Better not tell you now",
     "Cannot predict now",
