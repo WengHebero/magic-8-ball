@@ -82,7 +82,7 @@ Want to contribute? Great! Here’s how you can help:
 
 ## 💬 Questions or Suggestions?
 
-Feel free to open an issue or reach out via info@thecoffeeandcode.com <info@thecoffeeandcode.com>.
+Feel free to open an issue or reach out via info@thecoffeeandcode.com.
 
 ---
 
