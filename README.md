@@ -1,6 +1,5 @@
 # magic-8-ball
-Back in time
-Sure! Here is a fun and engaging README for your Magic 8 Ball project:
+Let's go back in time
 
 ---
 
