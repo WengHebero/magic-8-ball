@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(to bottom, #000000, #ff00ff);
+    background: linear-gradient(to bottom, #000000, #090979);
     margin: 0;
 }
 
@@ -21,9 +21,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: whitesmoke;
     font-size: 1.5em;
     margin-bottom: 20px;
+    position: relative;
 }
 
 .answer {
@@ -32,9 +33,11 @@ body {
 }
 
 button {
-    padding: 10px 20px;
+    padding: 15px 20px;
     font-family: Arial, sans-serif;
     font-size: 1em;
     cursor: pointer;
-    color: black;
+    color: white;
+    border-radius: 30%;
+    border: 2px solid whitesmoke;
 }
