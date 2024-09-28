@@ -14,7 +14,6 @@ This Magic 8 Ball app is built using HTML, CSS, and JavaScript, with a bit of ma
 ## 🌟 Features
 
 - **Realistic 8 Ball Design:** A sleek, modern look that mimics the classic toy.
-- **Interactive Experience:** Shake your phone or move your browser window to reveal a new answer.
 - **Random Responses:** Get a different answer every time, just like the real thing!
 
 ## 📸 Preview
