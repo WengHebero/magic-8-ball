@@ -19,7 +19,7 @@ This Magic 8 Ball app is built using HTML, CSS, and JavaScript, with a bit of ma
 
 ## 📸 Preview
 
-![Magic 8 Ball Screenshot](path/to/screenshot.png)
+![Magic 8 Ball Screenshot](/Users/wenghebero/magic-8-ball/screenshot.png)
 
 ## 🛠️ Installation
 
